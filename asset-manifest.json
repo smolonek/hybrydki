@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hybrydki/static/css/main.e29af139.chunk.css",
-    "main.js": "/hybrydki/static/js/main.ea88fc53.chunk.js",
-    "main.js.map": "/hybrydki/static/js/main.ea88fc53.chunk.js.map",
+    "main.js": "/hybrydki/static/js/main.15bc4d93.chunk.js",
+    "main.js.map": "/hybrydki/static/js/main.15bc4d93.chunk.js.map",
     "runtime-main.js": "/hybrydki/static/js/runtime-main.33fdb08e.js",
     "runtime-main.js.map": "/hybrydki/static/js/runtime-main.33fdb08e.js.map",
     "static/css/2.ace36aee.chunk.css": "/hybrydki/static/css/2.ace36aee.chunk.css",
     "static/js/2.3f99c1f0.chunk.js": "/hybrydki/static/js/2.3f99c1f0.chunk.js",
     "static/js/2.3f99c1f0.chunk.js.map": "/hybrydki/static/js/2.3f99c1f0.chunk.js.map",
     "index.html": "/hybrydki/index.html",
-    "precache-manifest.e09a7d4c0919e600022a5cacf52730d9.js": "/hybrydki/precache-manifest.e09a7d4c0919e600022a5cacf52730d9.js",
+    "precache-manifest.2192567297938303cfecde208abdad82.js": "/hybrydki/precache-manifest.2192567297938303cfecde208abdad82.js",
     "service-worker.js": "/hybrydki/service-worker.js",
     "static/css/2.ace36aee.chunk.css.map": "/hybrydki/static/css/2.ace36aee.chunk.css.map",
     "static/css/main.e29af139.chunk.css.map": "/hybrydki/static/css/main.e29af139.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.ace36aee.chunk.css",
     "static/js/2.3f99c1f0.chunk.js",
     "static/css/main.e29af139.chunk.css",
-    "static/js/main.ea88fc53.chunk.js"
+    "static/js/main.15bc4d93.chunk.js"
   ]
 }
