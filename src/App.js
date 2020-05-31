@@ -3,8 +3,8 @@ import './App.css';
 import SignIn from './SignIn/SignIn';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SignUp from './SignUp/SignUp';
-import { NavLink, Switch, Route } from 'react-router-dom';
-import { HashRouter as Router } from 'react-router-dom';
+import { NavLink, Switch, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
 import Home from './Home/Home';
 import { makeStyles } from '@material-ui/core/styles';
 import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
@@ -103,6 +103,7 @@ class App extends Component {
 								<a href="/home" className="navbar-brand">
 									Programowanie Hybrydowe
 								</a>
+								<Link to="/Login">Login</Link>
 								<div className="navbar-nav mr-auto">
 									<li className="nav-item">
 										<a href="/" className="nav-link">
