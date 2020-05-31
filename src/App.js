@@ -237,7 +237,7 @@ const Navigation = () => (
 const Main = () => (
 	<Switch>
 		<Route path="/Register" component={Register} />
-		<Route path="/Login" component={Login} />
+		<Route path="/hybdrydki/Login" component={Login} />
 		<Route path="/SignIn" component={SignIn} />
 		<Route path="/profile" component={Profile} />
 		<Route path="/admin" component={BoardAdmin} />
