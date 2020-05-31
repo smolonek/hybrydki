@@ -4,7 +4,7 @@ import SignIn from './SignIn/SignIn';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SignUp from './SignUp/SignUp';
 import { NavLink, Switch, Route } from 'react-router-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import Home from './Home/Home';
 import { makeStyles } from '@material-ui/core/styles';
 import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
