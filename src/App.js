@@ -103,7 +103,7 @@ class App extends Component {
 								<a href="/home" className="navbar-brand">
 									Programowanie Hybrydowe
 								</a>
-								<Link to="/Login">Login</Link>
+								<Link to="/hybrydki/Login">Login</Link>
 								<div className="navbar-nav mr-auto">
 									<li className="nav-item">
 										<a href="/" className="nav-link">
