@@ -100,7 +100,7 @@ class App extends Component {
 					</Navbar> */}
 						<div>
 							<nav className="navbar navbar-expand navbar-dark bg-dark" style={{ padding: '.1em 1rem' }}>
-								<a href="/" className="navbar-brand">
+								<a href="/home" className="navbar-brand">
 									Programowanie Hybrydowe
 								</a>
 								<div className="navbar-nav mr-auto">
