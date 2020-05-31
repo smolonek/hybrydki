@@ -157,13 +157,13 @@ class App extends Component {
 									<div className="navbar-nav ml-auto">
 										<li className="nav-item">
 											<Button
-												href="/Login"
+												href="/hybrydki/Login"
 												className={styles.loginButton}
 												style={{ margin: 10 }}
 												id="loginButton"
 												variant="contained"
 											>
-												Login XDD
+												Login
 											</Button>
 										</li>
 
@@ -237,7 +237,7 @@ const Navigation = () => (
 const Main = () => (
 	<Switch>
 		<Route path="/Register" component={Register} />
-		<Route path="/hybdrydki/Login" component={Login} />
+		<Route path="/hybrydki/Login" component={Login} />
 		<Route path="/SignIn" component={SignIn} />
 		<Route path="/profile" component={Profile} />
 		<Route path="/admin" component={BoardAdmin} />
