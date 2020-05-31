@@ -4,7 +4,7 @@ import SignIn from './SignIn/SignIn';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SignUp from './SignUp/SignUp';
 import { NavLink, Switch, Route, Link } from 'react-router-dom';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import Home from './Home/Home';
 import { makeStyles } from '@material-ui/core/styles';
 import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
@@ -87,7 +87,7 @@ class App extends Component {
 			<div className="app">
 				<ThemeProvider theme={darkTheme}>
 					{/* {currentUser ? <ButtonAppBarLogout /> : <ButtonAppBar />} */}
-					<Router>
+					<Router basename="/">
 						{/* <Navbar bg="dark" expand="lg">
 						<Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
 						<Navbar.Toggle aria-controls="basic-navbar-nav" />
