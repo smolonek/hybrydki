@@ -87,7 +87,7 @@ class App extends Component {
 			<div className="app">
 				<ThemeProvider theme={darkTheme}>
 					{/* {currentUser ? <ButtonAppBarLogout /> : <ButtonAppBar />} */}
-					<Router basename="/">
+					<Router basename="/hybrydki">
 						{/* <Navbar bg="dark" expand="lg">
 						<Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
 						<Navbar.Toggle aria-controls="basic-navbar-nav" />
