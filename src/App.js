@@ -236,11 +236,11 @@ const Navigation = () => (
 
 const Main = () => (
 	<Switch>
-		<Route path="/" component={Home} />
 		<Route path="/Register" component={Register} />
 		<Route path="/Login" component={Login} />
-		<Route exact path="/SignIn" component={SignIn} />
-		<Route exact path="/profile" component={Profile} />
-		<Route exact path="/admin" component={BoardAdmin} />
+		<Route path="/SignIn" component={SignIn} />
+		<Route path="/profile" component={Profile} />
+		<Route path="/admin" component={BoardAdmin} />
+		<Route path="/" component={Home} />
 	</Switch>
 );
