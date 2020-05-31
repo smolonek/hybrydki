@@ -1,0 +1,45 @@
+.maindiv {
+	margin-top: 2em;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+	color: aliceblue;
+}
+.submaindiv {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+}
+.container {
+	background-color: #424242;
+	border-radius: 0.5em;
+	padding: 1em;
+	height: fit-content;
+}
+.success {
+	margin-top: 0.5em;
+	color: #155724;
+	background-color: #d4edda;
+	border-color: #c3e6cb;
+	border-style: solid;
+	border-radius: 0.5em;
+	float: right;
+}
+.failed {
+	margin-top: 0.5em;
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+	border-style: solid;
+	border-radius: 0.5em;
+	float: right;
+}
+.usunbtn {
+	width: -webkit-fill-available;
+}

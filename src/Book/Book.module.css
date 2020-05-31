@@ -1,0 +1,24 @@
+.violet {
+	color: violet;
+}
+
+.violet:hover {
+	color: darkviolet;
+}
+
+.article {
+	width: 70%;
+	margin: auto;
+	padding: 12px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+@media (min-width: 900px) {
+	.article {
+		width: 630px;
+	}
+}
+.buttonRight {
+	float: right;
+}

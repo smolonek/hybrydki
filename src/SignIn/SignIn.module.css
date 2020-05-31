@@ -1,0 +1,57 @@
+html {
+	background-color: #212121 !important;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.loginForm {
+	width: 380px;
+	background-color: #212121;
+	margin: 4em auto;
+	padding: 3em 2em 2em 2em;
+	box-shadow: rgba(0, 0, 0, 0.14902) 0px 1px 1px 0px, rgba(0, 0, 0, 0.09804) 0px 1px 2px 0px;
+}
+
+.input {
+	font-size: 18px;
+	padding: 10px 10px 10px 5px;
+	-webkit-appearance: none;
+	display: block;
+	color: #636363;
+	width: 100%;
+	border: none;
+	border-radius: 0;
+	border-bottom: 1px solid #757575;
+}
+.label {
+	color: #999;
+	font-size: 18px;
+	font-weight: normal;
+	position: absolute;
+	pointer-events: none;
+	left: 5px;
+	top: 10px;
+	transition: all 0.2s ease;
+}
+
+.formcontrol {
+	width: 100%;
+}
+
+.formgroup {
+	margin-bottom: 45px;
+}
+
+.mainDiv {
+	background-color: #212121;
+}
+
+.formgroup2 {
+	margin-top: 20px;
+	margin-bottom: 45px;
+}
+
+.backbtn {
+	margin-top: -19px;
+	padding: -3px;
+}

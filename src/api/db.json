@@ -1,0 +1,95 @@
+{
+  "books": [
+    {
+      "id": 4,
+      "title": "Igrzyska Śmierci",
+      "author": "Suzanne Collins",
+      "publisher": "kasztan",
+      "year": "1994",
+      "price": "300"
+    },
+    {
+      "id": 5,
+      "title": "Akademia pana Kleksa",
+      "author_id": 5,
+      "author": "Jan Brzechwa",
+      "publisher": "kasztan",
+      "year": "1994",
+      "price": "300"
+    },
+    {
+      "id": 1579579594,
+      "title": "Zwiadowcy",
+      "author": "John Flanagan",
+      "publisher": "Jaguar",
+      "year": "2009",
+      "price": "20"
+    },
+    {
+      "id": 1579580091,
+      "title": "Carrie",
+      "author": "Stephen King",
+      "publisher": "Albatros",
+      "year": "1981",
+      "price": "20"
+    },
+    {
+      "id": 1579580212,
+      "title": "Harry Potter i Insygnia Śmierci",
+      "author": "J. K. Rowling",
+      "publisher": "publisher2",
+      "year": "2000",
+      "price": "50"
+    },
+    {
+      "id": 1579692974,
+      "title": "aaa",
+      "author": "",
+      "publisher": "",
+      "year": "",
+      "price": ""
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "J. R. R. Tolkien"
+    },
+    {
+      "id": 2,
+      "name": "J. K. Rowling"
+    },
+    {
+      "id": 3,
+      "name": "Stephen Hawking"
+    },
+    {
+      "id": 4,
+      "name": "Suzanne Collins"
+    },
+    {
+      "id": 5,
+      "name": "Jan Brzechwa"
+    },
+    {
+      "id": 6,
+      "name": "Adam Solon"
+    },
+    {
+      "id": 1579580091,
+      "name": "Stephen King"
+    },
+    {
+      "id": 1579583727,
+      "name": "aaaa"
+    },
+    {
+      "id": 1579583884,
+      "name": ""
+    },
+    {
+      "id": 1579590954,
+      "name": "autor"
+    }
+  ]
+}

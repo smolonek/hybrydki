@@ -1,0 +1,25 @@
+.divstyle {
+	width: min-content;
+	margin: auto;
+	background-color: #424242;
+	margin-top: 2em;
+	padding: 2em 4em;
+	border-radius: 0.5em;
+}
+
+.formstyle {
+	width: fit-content;
+}
+.bgcolor {
+	background-color: #212121;
+	color: aliceblue;
+}
+.imgmargin {
+	margin-bottom: 1em;
+	width: -webkit-fill-available;
+	border-radius: 50%;
+}
+.loginbtn {
+	background-color: #2196f3;
+	color: aliceblue;
+}
