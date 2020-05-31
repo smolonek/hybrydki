@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59c1e8ef91cb3b1d58ea1b400c06b8bd",
+    "revision": "2a87e9d91dbf0e7ace9d7b5ca3f5380f",
     "url": "/hybrydki/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hybrydki/static/css/2.ace36aee.chunk.css"
   },
   {
-    "revision": "80ce595ef04946ab4662",
+    "revision": "e86ab6f77f9270e630c1",
     "url": "/hybrydki/static/css/main.e29af139.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hybrydki/static/js/2.3f99c1f0.chunk.js.LICENSE"
   },
   {
-    "revision": "80ce595ef04946ab4662",
-    "url": "/hybrydki/static/js/main.955c7086.chunk.js"
+    "revision": "e86ab6f77f9270e630c1",
+    "url": "/hybrydki/static/js/main.ee9ff44e.chunk.js"
   },
   {
     "revision": "3eae4977659cfaca3d86",
